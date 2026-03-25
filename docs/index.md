@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Elizabeth's Textbook!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
